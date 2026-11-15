@@ -1,0 +1,10 @@
+crop,seasons,temp_min,temp_best_min,temp_best_max,temp_max,ph_min,ph_best_min,ph_best_max,ph_max,water_min_mm,water_max_mm,crop_source,water_source
+maize,spring|summer,10,18,33,47,4.5,5,7,8.5,500,800,https://ecocrop.apps.fao.org/ecocrop/srv/en/dataSheet?id=2175,https://www.fao.org/4/s2022e/s2022e07.htm
+soybeans,spring,10,20,33,38,4.5,5.5,6.5,8.4,450,700,https://ecocrop.apps.fao.org/ecocrop/srv/en/dataSheet?id=1150,https://www.fao.org/4/s2022e/s2022e07.htm
+sunflowers,spring|summer,5,17,34,45,5.5,6,7.5,8,600,1000,https://ecocrop.apps.fao.org/ecocrop/srv/en/dataSheet?id=1191,https://www.fao.org/4/s2022e/s2022e07.htm
+sorghum,spring|summer,8,22,35,40,5,5.5,7.5,8,450,650,https://ecocrop.apps.fao.org/ecocrop/srv/en/dataSheet?id=48747,https://www.fao.org/4/s2022e/s2022e07.htm
+dry beans,spring|summer,7,16,25,32,4,5.5,7.5,9,300,500,https://ecocrop.apps.fao.org/ecocrop/srv/en/dataSheet?id=1668,https://www.fao.org/4/s2022e/s2022e07.htm
+groundnuts,summer,10,22,32,45,4.5,5.5,6.5,8.5,500,700,https://ecocrop.apps.fao.org/ecocrop/srv/en/dataSheet?id=2199,https://www.fao.org/4/s2022e/s2022e07.htm
+wheat,autumn|winter,5,15,23,27,5.5,6,7,8.5,450,650,https://ecocrop.apps.fao.org/ecocrop/srv/en/dataSheet?id=2114,https://www.fao.org/4/s2022e/s2022e07.htm
+oats,autumn|winter,5,16,20,30,4.5,5,6,7.5,450,650,https://ecocrop.apps.fao.org/ecocrop/srv/en/dataSheet?id=481,https://www.fao.org/4/s2022e/s2022e07.htm
+barley,winter,2,15,20,40,6,6.5,7.5,8,450,650,https://ecocrop.apps.fao.org/ecocrop/srv/en/dataSheet?id=1232,https://www.fao.org/4/s2022e/s2022e07.htm
